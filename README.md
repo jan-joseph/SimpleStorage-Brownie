@@ -10,7 +10,7 @@
 
 ```
 python -m pip install --user pipx
-python3 -m pipx ensurepath
+python -m pipx ensurepath
 ```
 
 - Install Brownie using **pipx**
