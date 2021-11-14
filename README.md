@@ -76,3 +76,4 @@ brownie test -k <test-name.py>
 - Contracts are stored in `contracts` folder
 - Scripts are stored in `scripts` folder
 - Tests are stored in `tests` folder
+- `YAML` config file contains the reference to the `.env` files variables
